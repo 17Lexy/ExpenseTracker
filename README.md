@@ -40,6 +40,20 @@
 </p>
 
 
+### UPD.1
+
+Добавлена возможность выбора категории траты и подсчет потраченной суммы по категориям
+<p align="center">
+  <img src="![image](https://github.com/17Lexy/ExpenseTracker/assets/135131851/1796f011-8eae-4900-8f23-8bf870c67ebc)"
+" alt="Добавление транспортного средства"/>
+</p>
+<p align="center">
+  <img src="![image](https://github.com/17Lexy/ExpenseTracker/assets/135131851/a7ca60ce-8c8e-430a-b78a-21741bb51ab4)"
+)
+" alt="Добавление транспортного средства"/>
+</p>
+
+
 
 
 
